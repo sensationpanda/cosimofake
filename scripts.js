@@ -2,15 +2,15 @@
 let currentNewsIndex = 0;
 const newsData = [
     {
-        imageUrl: 'path_to_your_first_image.jpg',
+        imageUrl: '1.jpeg',
         isFake: true
     },
     {
-        imageUrl: 'path_to_your_second_image.jpg',
+        imageUrl: '2.JPG',
         isFake: false
     },
     {
-        imageUrl: 'path_to_your_third_image.jpg',
+        imageUrl: '3.JPG',
         isFake: true
     }
 ];
